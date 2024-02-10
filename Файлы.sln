@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Файлы", "Файлы.csproj", "{2D747DAF-12D0-4272-B249-09B17D0E8307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CEB4CDBC-1063-4786-A690-C71D003FBF73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C819189E-3F2D-4FB9-9038-685B2AF147D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D747DAF-12D0-4272-B249-09B17D0E8307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D747DAF-12D0-4272-B249-09B17D0E8307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D747DAF-12D0-4272-B249-09B17D0E8307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D747DAF-12D0-4272-B249-09B17D0E8307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB4CDBC-1063-4786-A690-C71D003FBF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB4CDBC-1063-4786-A690-C71D003FBF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB4CDBC-1063-4786-A690-C71D003FBF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB4CDBC-1063-4786-A690-C71D003FBF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C819189E-3F2D-4FB9-9038-685B2AF147D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C819189E-3F2D-4FB9-9038-685B2AF147D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C819189E-3F2D-4FB9-9038-685B2AF147D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C819189E-3F2D-4FB9-9038-685B2AF147D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E59571D-9E22-48EE-88B6-68EADC63D6D8}
+	EndGlobalSection
+EndGlobal
